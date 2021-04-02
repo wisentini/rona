@@ -20,7 +20,7 @@ Create a directory called `rona` in your `home` directory. You can achieve this 
 
 ```bash
 $ cd ~/
-$ mkdir -m 777 rona
+$ mkdir rona
 ```
 
 Then, copy the `rona.py` file into the newly created directory (`rona`):
