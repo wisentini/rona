@@ -1,6 +1,6 @@
 # rona :mask:
 
-rona is a simple `alias` that runs a Python script I made to get data from my city hall official website about the COVID-19 pandemic.
+rona is a simple `alias` that runs a Python script I made to get data from my city hall official website about the COVID-19 pandemic. It'll work as long as the html structure of the website isn't changed.
 
 ![rona gif](https://media.giphy.com/media/yUaJUZ9Z3HCe1SqQK0/giphy.gif)
 
