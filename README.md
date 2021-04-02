@@ -2,7 +2,7 @@
 
 rona is a simple `alias` that runs a Python script I made to get data from my city hall official website about the COVID-19 pandemic.
 
-![rona-gif](img/rona.gif)
+![rona gif](https://media.giphy.com/media/yUaJUZ9Z3HCe1SqQK0/giphy.gif)
 
 ## Getting Started
 
@@ -52,7 +52,7 @@ $ cp ~/Downloads/.bash_aliases ~/
 
 Hooray! Now all that's left to do is to make sure everything is working properly. To do this, open your terminal and type `rona`. After a few seconds, you should see something like this as the output:
 
-![rona-screenshot](img/rona.png)
+![rona screenshot](img/rona.png)
 
 You can also get the same result by running only the `rona.py` file, typing:
 
